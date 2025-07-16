@@ -3,6 +3,8 @@
 # .NET Blazor #
 ###############
 
+appsettings.json
+
 # Build outputs
 bin/
 obj/
